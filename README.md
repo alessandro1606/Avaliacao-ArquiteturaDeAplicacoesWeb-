@@ -195,5 +195,5 @@ docker run -p 8080:8080 sistema-academico
 ---
 
 ## Contato
-Alessandro Ferreira Eugênio dos Santos
+Alessandro Ferreira Eugênio dos Santos.
 202251061387
