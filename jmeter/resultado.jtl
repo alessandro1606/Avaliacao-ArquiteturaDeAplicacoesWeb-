@@ -1,0 +1,3 @@
+Rótulo,# Amostras,Média,Mín.,Máx.,Desvio Padrão,% de Erro,Vazão,KB/s,Sent KB/sec,Média de Bytes
+GET /api/alunos,751,3794,1123,5970,"833,21","0,000%","11,98666","3,69","1,83","315,0"
+TOTAL,751,3794,1123,5970,"833,21","0,000%","11,98666","3,69","1,83","315,0"
